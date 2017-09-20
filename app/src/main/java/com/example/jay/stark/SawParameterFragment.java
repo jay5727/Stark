@@ -398,6 +398,7 @@ public class SawParameterFragment extends Fragment {
                 adapter3.setDropDownViewResource(R.layout.spinner_item);
                 //adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
                 spinnerBore.setAdapter(adapter3);
+                //comment
 
             }
         }
