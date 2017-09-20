@@ -1,0 +1,183 @@
+[
+  {
+    "id": "0",
+    "dia_mm": "0",
+    "basic_mm": "0",
+    "stock_mm": "0",
+    "plus_mm": "0",
+    "top_mm": "0",
+    "cutting_cap_mm": ""
+  },
+  {
+
+  "id": "1",
+  "dia_mm": "175",
+  "basic_mm": "0.2",
+  "stock_mm": "0.15",
+  "plus_mm": "0.12",
+  "top_mm": "0.08",
+  "cutting_cap_mm": "40"
+},
+  {
+    "id": "2",
+    "dia_mm": "200",
+    "basic_mm": "0.2",
+    "stock_mm": "0.15",
+    "plus_mm": "0.12",
+    "top_mm": "0.08",
+    "cutting_cap_mm": "45"
+  },
+  {
+    "id": "3",
+    "dia_mm": "225",
+    "basic_mm": "0.2",
+    "stock_mm": "0.15",
+    "plus_mm": "0.12",
+    "top_mm": "0.08",
+    "cutting_cap_mm": "55"
+  },
+  {
+    "id": "4",
+    "dia_mm": "250",
+    "basic_mm": "0.25",
+    "stock_mm": "0.2",
+    "plus_mm": "0.12",
+    "top_mm": "0.08",
+    "cutting_cap_mm": "60"
+  },
+  {
+    "id": "5",
+    "dia_mm": "275",
+    "basic_mm": "0.25",
+    "stock_mm": "0.2",
+    "plus_mm": "0.15",
+    "top_mm": "0.1",
+    "cutting_cap_mm": "65"
+  },
+  {
+    "id": "6",
+    "dia_mm": "300",
+    "basic_mm": "0.25",
+    "stock_mm": "0.2",
+    "plus_mm": "0.15",
+    "top_mm": "0.1",
+    "cutting_cap_mm": "70"
+  },
+  {
+    "id": "7",
+    "dia_mm": "315",
+    "basic_mm": "0.3",
+    "stock_mm": "0.25",
+    "plus_mm": "0.18",
+    "top_mm": "0.12",
+    "cutting_cap_mm": "75"
+  },
+  {
+    "id": "8",
+    "dia_mm": "325",
+    "basic_mm": "0.3",
+    "stock_mm": "0.25",
+    "plus_mm": "0.18",
+    "top_mm": "0.12",
+    "cutting_cap_mm": "78"
+  },
+  {
+    "id": "9",
+    "dia_mm": "350",
+    "basic_mm": "0.3",
+    "stock_mm": "0.25",
+    "plus_mm": "0.18",
+    "top_mm": "0.12",
+    "cutting_cap_mm": "80"
+  },
+  {
+    "id": "10",
+    "dia_mm": "370",
+    "basic_mm": "0.3",
+    "stock_mm": "0.25",
+    "plus_mm": "0.2",
+    "top_mm": "0.15",
+    "cutting_cap_mm": "86"
+  },
+  {
+    "id": "11",
+    "dia_mm": "400",
+    "basic_mm": "0.3",
+    "stock_mm": "0.25",
+    "plus_mm": "0.2",
+    "top_mm": "0.15",
+    "cutting_cap_mm": "96"
+  },
+  {
+    "id": "12",
+    "dia_mm": "425",
+    "basic_mm": "0.35",
+    "stock_mm": "0.3",
+    "plus_mm": "0.2",
+    "top_mm": "0.15",
+    "cutting_cap_mm": "106"
+  },
+  {
+    "id": "13",
+    "dia_mm": "450",
+    "basic_mm": "0.35",
+    "stock_mm": "0.3",
+    "plus_mm": "0.2",
+    "top_mm": "0.15",
+    "cutting_cap_mm": "112"
+  },
+  {
+    "id": "14",
+    "dia_mm": "500",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.22",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "128"
+  },
+  {
+    "id": "15",
+    "dia_mm": "525",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.25",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "135"
+  },
+  {
+    "id": "16",
+    "dia_mm": "550",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.25",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "140"
+  },
+  {
+    "id": "17",
+    "dia_mm": "560",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.25",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "145"
+  },
+  {
+    "id": "18",
+    "dia_mm": "600",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.25",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "160"
+  },
+  {
+    "id": "19",
+    "dia_mm": "630",
+    "basic_mm": "0.4",
+    "stock_mm": "0.35",
+    "plus_mm": "0.25",
+    "top_mm": "0.2",
+    "cutting_cap_mm": "175"
+  }
+]
